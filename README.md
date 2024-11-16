@@ -5,5 +5,6 @@ This repository contains a collection of my notebooks showcasing various project
 
 Below are links to the notebooks:
 
-- [View the penalty_word_cup notebook](penalty_word_cup%20(1).ipynb) 
-- [Iris Analysis notebook](iris_YN.ipynb)
+- [Penalty Word Cup Notebook](penalty_word_cup%20(1).ipynb) 
+- [Iris Analysis Notebook](iris_YN.ipynb)
+- [Flights Rating Notebook](Ex3_Visualization.ipynb)
