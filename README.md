@@ -16,6 +16,7 @@ Python libraries such as Pandas were used for data manipulation, while Seaborn a
 This work was carried out as a collaborative effort with two fellow students, combining statistical analysis and visual storytelling to present findings effectively.
 
 - [Iris Analysis Notebook](iris_YN.ipynb)
-  
-   **Exploration of the Iris dataset**, demonstrating data visualization techniques and classification models for species prediction.
+  This project explores the famous Iris dataset to analyze relationships between flower species and their physical characteristics. Using Python, we visualized the data with Seaborn and Matplotlib, creating scatter plots and histograms to highlight patterns and differences between species.
+The analysis showcases the power of simple datasets in understanding data visualization and statistical relationships.
+
 
