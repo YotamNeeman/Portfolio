@@ -13,7 +13,6 @@ Python libraries such as Pandas were used for data manipulation, while Seaborn a
 - [Flights Rating Notebook](Ex3_Visualization.ipynb)
 
   This project analyzes flight ratings data to uncover trends and insights related to passenger satisfaction. Using Python, we performed data preprocessing and visualization with Seaborn and Matplotlib. The analysis focused on various factors, including delays, in-flight services, and airport experiences, to explore their impact on passenger satisfaction.
-
 This work was carried out as a collaborative effort with two fellow students, combining statistical analysis and visual storytelling to present findings effectively.
 
 - [Iris Analysis Notebook](iris_YN.ipynb)
