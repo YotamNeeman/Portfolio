@@ -1,5 +1,5 @@
 # Yotam Neeman Portfolio
-MA graduate in Data Information, focused on analytics and data insights.
+**MA graduate in Data Information, focused on analytics and data insights.**
 
 This repository contains a collection of my notebooks showcasing various projects and analyses.
 
