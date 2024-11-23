@@ -7,13 +7,9 @@ Skills:
 
 * Writing and optimizing SQL queries for data retrieval.
 
-Machine Learning:
+* Knowledge of machine learning models, including regression and classification, using Scikit-learn.
 
-Basic models like regression and classification using Scikit-learn.
 
-Databases:
-
-Working with MySQL and PostgreSQL.
 
 This repository contains a collection of my notebooks showcasing various projects and analyses.
 
