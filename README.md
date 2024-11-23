@@ -1,15 +1,13 @@
 # Yotam Neeman Portfolio
 **MA graduate in Data Information, focused on analytics and data insights.**
 
-Skills:
+## Skills:
 
 * Analyzing and visualizing data with Python (Pandas, NumPy, Matplotlib, Seaborn).
 
 * Writing and optimizing SQL queries for data retrieval.
 
 * Knowledge of machine learning models, including regression and classification, using Scikit-learn.
-
-
 
 
 This repository contains a collection of my notebooks showcasing various projects and analyses.
