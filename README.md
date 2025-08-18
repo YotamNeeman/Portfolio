@@ -3,11 +3,11 @@
 
 ## Skills:
 
-* *Python:* Analyzing and visualizing data (Pandas, NumPy, Matplotlib, Seaborn).
+* **Python:** Analyzing and visualizing data (Pandas, NumPy, Matplotlib, Seaborn).
 
-* SQL: Writing and optimizing complex SQL queries to analyze and manage large datasets.
+* **SQL:** Writing and optimizing complex SQL queries to analyze and manage large datasets.
 
-* Tableau: Designing interactive dashboards for business insights and data storytelling.
+* **Tableau**: Designing interactive dashboards for business insights and data storytelling.
 
 * Knowledge of machine learning models, including regression and classification, using Scikit-learn.
 
