@@ -1,0 +1,13 @@
+-- View that adds descriptive columns to the penalties table:
+-- classifies each kick by result (goal/miss),
+-- type (elimination/no elimination),
+-- and accuracy (on/off target):
+
+CREATE VIEW penalties_view AS
+SELECT *,
+       CASE WHEN goal = 1 THEN 'goal' ELSE 'miss' END AS score,
+       CASE WHEN elimination = 1 THEN 'elimination kick' ELSE 'no elimination' END AS elimination_kick,
+       CASE WHEN ontarget = 1 THEN 'on target' ELSE 'off target' END AS on_target
+FROM penalties;
+
+
