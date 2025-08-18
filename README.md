@@ -31,8 +31,8 @@
 
 - [Penalty Word Cup - SQL](SQL_Penalties_kicks.sql)
 
-  nalysis of FIFA World Cup penalty kicks using SQL.  
-Includes queries for goal success rates by team and foot, classification of shots (goal/miss, on/off target, elimination), and frequency analysis by direction and height.
+  Analysis of FIFA World Cup penalty kicks using SQL.  
+Includes queries for goal success rates by team and foot, classification of shots, and frequency analysis by zones.
 
 
 
