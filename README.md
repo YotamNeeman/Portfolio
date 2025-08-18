@@ -27,6 +27,12 @@
 
   Exploration of the Iris dataset with visualizations and statistical comparisons across flower species.
 
-  **SQL Projects**
+**SQL Projects**
+
+- [Penalty Word Cup - SQL](SQL Penalties kicks)
+
+  Analysis of penalty patterns in FIFA World Cup history. Included data cleaning, trend analysis, and time-series exploration with Pandas, Seaborn, and Matplotlib. 
+
+
 
 
