@@ -17,7 +17,11 @@
 
 - [Penalty Word Cup Notebook](penalty_word_cup.ipynb)
 
-  Analysis of penalty patterns in FIFA World Cup history. Included data cleaning, trend analysis, and time-series exploration with Pandas, Seaborn, and Matplotlib. 
+  Analysis of penalty patterns in FIFA World Cup history. Included data cleaning, trend analysis, and time-series exploration with Pandas, Seaborn, and Matplotlib.
+  - [Penalty Word Cup - SQL](SQL_Penalties_kicks.sql)
+
+  Analysis of FIFA World Cup penalty kicks using SQL.  
+Includes queries for goal success rates by team and foot, classification of shots, and frequency analysis by zones.
 
 - [Flights Rating Notebook](Ex3_Visualization.ipynb)
 
