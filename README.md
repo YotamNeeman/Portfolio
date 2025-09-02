@@ -22,7 +22,7 @@
 
   Analysis of FIFA World Cup penalty kicks using SQL. Includes queries for goal success rates by team and foot, classification of shots, and frequency analysis by zones.
 
-  - [Penalties Dashboard](PenaltiesDashbord.png)
+  - [Penalties Dashboard](PenaltiesDashboard.png)
     
 Interactive dashboard showing KPIs and visual breakdowns of penalties. (Also published on Tableau Public).
 
