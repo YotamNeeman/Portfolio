@@ -13,9 +13,9 @@
 
 ## Projects:
 
-**Python Projects**
+**Penalty Kicks Analytics**
 
-- [Penalty Word Cup Notebook](penalty_word_cup.ipynb)
+  - [Penalty Word Cup Notebook](penalty_word_cup.ipynb)
 
   Analysis of penalty patterns in FIFA World Cup history. Included data cleaning, trend analysis, and time-series exploration with Pandas, Seaborn, and Matplotlib.
   - [Penalty Word Cup - SQL](SQL_Penalties_kicks.sql)
