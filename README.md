@@ -20,9 +20,9 @@
   Analysis of penalty patterns in FIFA World Cup history. Included data cleaning, trend analysis, and time-series exploration with Pandas, Seaborn, and Matplotlib.
   - [Penalty Word Cup - SQL](SQL_Penalties_kicks.sql)
 
-  Analysis of FIFA World Cup penalty kicks using SQL.  
-Includes queries for goal success rates by team and foot, classification of shots, and frequency analysis by zones.
-Tableau Dashboard
+  Analysis of FIFA World Cup penalty kicks using SQL. Includes queries for goal success rates by team and foot, classification of shots, and frequency analysis by zones.
+
+  - **Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/yotam.neeman/viz/PaneltiesDashboard/Dashboard1)
 Interactive dashboard showing KPIs and visual breakdowns of penalties. (Also published on Tableau Public).
 https://public.tableau.com/app/profile/yotam.neeman/viz/PaneltiesDashboard/Dashboard1
 
