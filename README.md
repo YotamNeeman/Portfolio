@@ -26,6 +26,9 @@
     
 Interactive dashboard showing KPIs and visual breakdowns of penalties. (Also published on Tableau Public).
 
+##  Live Dashboard
+
+[![Dashboard Preview](assets/img/PenaltiesDashboard.png)](https://public.tableau.com/app/profile/yotam.neeman/viz/PaneltiesDashboard/Dashboard1)
 
 
 
